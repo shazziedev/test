@@ -1,0 +1,14 @@
+.footer{
+    padding: 20px;
+    text-align: center;
+    background-color: darkblue;
+    margin-top: 20px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
